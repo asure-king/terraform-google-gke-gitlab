@@ -5,6 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this
 project adheres to [Semantic Versioning](http://semver.org/).
 
+### [0.3.1](https://www.github.com/terraform-google-modules/terraform-google-gke-gitlab/compare/v0.3.0...v0.3.1) (2020-08-06)
+
+
+### Bug Fixes
+
+* Fixed typo in values.yaml.tpl which prevented cache from working on GCS. ([#52](https://www.github.com/terraform-google-modules/terraform-google-gke-gitlab/issues/52)) ([ba4d0df](https://www.github.com/terraform-google-modules/terraform-google-gke-gitlab/commit/ba4d0df929627c75d76d7da1ad33f165b7d1a8a9))
+
 ## [0.3.0](https://www.github.com/terraform-google-modules/terraform-google-gke-gitlab/compare/v0.2.0...v0.3.0) (2020-07-16)
 
 
